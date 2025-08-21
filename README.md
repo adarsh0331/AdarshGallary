@@ -4,11 +4,9 @@
 
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hey%20welcome%20to%20devopstraininghub&width=800&height=120" alt="Adarsh"/>
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hey%20welcome%20to%20My%20Profile&width=800&height=120" alt="Adarsh"/>
 </p>
 
-
-🛠 Automating, Scaling, and Optimizing Infrastructure
 
 I'm a DevOps Engineer with a passion for cloud computing, automation, CI/CD, and infrastructure as code. I thrive on building scalable, efficient, and secure systems that power modern applications.
 
